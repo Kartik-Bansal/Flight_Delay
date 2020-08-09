@@ -36,6 +36,5 @@ Dataset.csv was trained on two Machine Learning Models: RandomForestRegressor an
 
 - NumPy
 - Pandas
-- BeautifulSoup
 - Matplotlib
 - Scikit-learn
